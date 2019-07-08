@@ -6,6 +6,13 @@
 
 <script>
     export default {
-        name: 'App',
+        name: 'App'
     }
 </script>
+<style lang="less">
+    body {
+        div {
+            color: pink;
+        }
+    }
+</style>
